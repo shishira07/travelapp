@@ -1,0 +1,6 @@
+i want to create an app where people share there experiences similar to memories app -it is there wish to share pics or not
+and someone who travelled can suggest others by dming if other person accept req
+integratig worldmap and pointing visited places -thus does it imp for users.......
+users login and signup
+searching by hashtangs or names feature
+i aslo need to allow messaging to each other about asking travle related queations?
